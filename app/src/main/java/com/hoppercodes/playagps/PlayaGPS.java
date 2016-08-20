@@ -423,7 +423,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 1:
                 mcl.roseInt = 23;
-                mcl.roseHeading = "NNE";
+                mcl.roseHeading = "N NE";
                 mcl.roseWind = "Greco-Tramantano";
                 break;
             case 2:
@@ -433,7 +433,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 3:
                 mcl.roseInt = 68;
-                mcl.roseHeading = "ENE";
+                mcl.roseHeading = "NE E";
                 mcl.roseWind = "Greco-Levante";
                 break;
             case 4:
@@ -443,7 +443,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 5:
                 mcl.roseInt = 113;
-                mcl.roseHeading = "ESE";
+                mcl.roseHeading = "E SE";
                 mcl.roseWind = "Levante-Scirocco";
                 break;
             case 6:
@@ -453,7 +453,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 7:
                 mcl.roseInt = 158;
-                mcl.roseHeading = "SSE";
+                mcl.roseHeading = "SE S";
                 mcl.roseWind = "Ostro-Scirocco";
                 break;
             case 8:
@@ -463,7 +463,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 9:
                 mcl.roseInt = 203;
-                mcl.roseHeading = "SSW";
+                mcl.roseHeading = "S SW";
                 mcl.roseWind = "Ostro-Libeccio";
                 break;
             case 10:
@@ -473,7 +473,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 11:
                 mcl.roseInt = 248;
-                mcl.roseHeading = "WSW";
+                mcl.roseHeading = "SW W";
                 mcl.roseWind = "Ponente-Libeccio";
                 break;
             case 12:
@@ -483,7 +483,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 13:
                 mcl.roseInt = 293;
-                mcl.roseHeading = "WNW";
+                mcl.roseHeading = "W NW";
                 mcl.roseWind = "Maestro-Ponente";
                 break;
             case 14:
@@ -493,7 +493,7 @@ public class PlayaGPS extends PApplet {
                 break;
             case 15:
                 mcl.roseInt = 338;
-                mcl.roseHeading = "NNW";
+                mcl.roseHeading = "NW N";
                 mcl.roseWind = "Maestro-Tramontana";
                 break;
             default:

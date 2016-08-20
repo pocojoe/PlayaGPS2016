@@ -4,23 +4,27 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="497236688946"
+    timestamp="515311541284"
     token="879176948617094529" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1914" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="216" />
     <task
         name="verifier"
-        duration="0" />
+        duration="32" />
 
-    <build timestamp="41380442507615" >
+    <artifact
+        location="C:\proj\PlayaGPS\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="515311541284" >
         <artifact
             location="C:\proj\PlayaGPS\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
